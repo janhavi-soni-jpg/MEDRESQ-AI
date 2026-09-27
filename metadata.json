@@ -1,0 +1,6 @@
+{
+  "name": "MEDRESQ AI",
+  "description": "AI-powered healthcare supply-chain resilience platform for hospital inventory monitoring, shortage prediction, and replenishment planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
